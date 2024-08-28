@@ -1,0 +1,21 @@
+﻿{
+  "suppressINotifyPattern": true,
+  "suppressGeneratedCodeAttribute": true,
+  "language": "CS",
+  "namespace": "plugins_default_plugins.earlybound",
+  "serviceContextName": "CrmServiceContext",
+  "generateActions": false,
+  "generateGlobalOptionSets": false,
+  "emitFieldsClasses": true,
+  "entityTypesFolder": "entities",
+  "messagesTypesFolder": "messages",
+  "optionSetsTypesFolder": "optionSets",
+  "entityNamesFilter": [
+    //"businessunit",
+    //Adicionar o nome logico das entities que deseja criar o earlybound
+  ],
+  "messageNamesFilter": [
+    //"AIReply",
+    //Adicionar o nome logico das messages que deseja criar o earlybound
+  ]
+}
